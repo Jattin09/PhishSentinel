@@ -1,0 +1,2 @@
+GitHub integration test from Kali Linux.
+VS Code Source Control is configured.
